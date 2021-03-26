@@ -9,7 +9,7 @@ on:
     - releases/*
 
 env:
-  owner: <MeghanaMgowda>
+  owner: <meghanamgowda>
   domain: github.io
 jobs:
   deploy-dev-test:
